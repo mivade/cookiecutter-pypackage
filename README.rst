@@ -9,6 +9,10 @@ Cookiecutter template for a Python package. See https://github.com/audreyr/cooki
 * Tox_ testing: Setup to easily test for Python 2.6, 2.7, 3.3, 3.4
 * Sphinx_ docs: Documentation ready for generation with, for example, ReadTheDocs_
 
+.. _Tox: https://testrun.org/tox/latest/
+.. _Sphinx: http://sphinx-doc.org/
+.. _ReadTheDocs: https://readthedocs.org/
+
 Usage
 -----
 
